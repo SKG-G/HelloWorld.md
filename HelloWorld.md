@@ -1,2 +1,3 @@
 ## This is a markdown file
-git push orgin master
+git remote add origin https://github.com/SKG-G/datasciencecoursea.git
+git push -u origin master
